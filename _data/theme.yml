@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: gnme064
+featured-image: gnme042
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em # Default is 8em
+home-title-y-padding: 12em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: top
 
 ##########
 # ITEM PAGE
@@ -69,10 +69,10 @@ metadata-facets-fields: "subject,creator,format"
 # NAVBAR COLORS
 # If you'd like to change the color of the nav-bar and links, adjust the below. 
 # Choose from "navbar-light" for use with light background colors, or "navbar-dark" for dark background colors
-navbar-color: navbar-dark
+navbar-color: navbar-light
 # navbar background color
 # Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
-navbar-background: bg-dark
+navbar-background: bg-light
 
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
