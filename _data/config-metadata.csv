@@ -1,13 +1,22 @@
 field,display_name,browse_link,external_link
 title,Title,
+author,Author
+illustrator,Illustrator
+translator,Translator
+publisher,Publisher
 creator,Creator,
 date,Date Created,
+original publication date,Original Publication Date
+page number,Page Number
+original language,Original Language
 description,Description,
 subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+content,Content
+world cat page, World Cat Page
 identifier,Source Identifier,,
 type,Type,
 format,Format,
