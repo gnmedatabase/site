@@ -6,8 +6,9 @@ author,Author,,,Author
 illustrator,Illustrator,,,Illustrator
 publisher,Publisher,,,Publisher
 original language,Original Language,,,Original Language
-content,,true
-translator,,true
+content,,,true
+page number,,true
+translator,,,true
 subject,,true
 location,,true
 
