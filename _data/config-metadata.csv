@@ -1,11 +1,11 @@
-field,display_name,browse_link,external_link
+ufield,display_name,browse_link,external_link
 title,Title,
 author,Author
 illustrator,Illustrator
 translator,Translator
 publisher,Publisher
 creator,Creator,
-date,Date Created,
+date,Year Published,
 original publication date,Original Publication Date
 page number,Page Number
 original language,Original Language
