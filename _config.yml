@@ -20,9 +20,9 @@ source-code: https://gnmedatabase.github.io/site/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Middle East and North Africa Illustrated: 
+title: GNME Database
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A Bibliographic Database of Graphic Novels in English
+tagline: Database
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Description"
