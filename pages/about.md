@@ -31,6 +31,6 @@ Solmaz Shakeriferd compiled the information for the first list of over 60 titles
 <br> 
 <h2 align="left" style="font-size:100%;">STUDENTS </h2> 
 <br>
-The origin of the idea behind MENAI is a course that Selim S. Kuru developed for the HONORS Program at the University of Washington, Seattle, WA. Another course parallel to the HONORS 212 was offered in Spring 2020 through the Department of Near Eastern Languages and Civilization. The courses helped Kuru to develop the MENAI. We would like to acknowledge all students who had taken the course on this page. Second phase of the project will include an exhibit of student work.
+The origin of the idea behind MENAI is a course that Selim S. Kuru developed for the HONORS Program at the University of Washington, Seattle, WA. The 5-credit course was offered for the first time in Spring 2022 over Zoom with 29 registered students. Second time over, the course was offered in person in Spring 2022 with 29 registered students. During that quarter, a 2-credit version of the course was offered through the Department of Near Eastern Languages and Civilization with four registered students. The courses helped Kuru develop the MENAI. We would like to acknowledge all students who had taken the course on this page. Second phase of the project will include an exhibit of the student work that include translations between verbal and visual languages and products of collaborative group projects.
 <p>
 <DIV>
