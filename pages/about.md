@@ -4,7 +4,7 @@ layout: about
 permalink: /about.html
 credits: false
 ---
-<br> 
+<P align="left">
 <h3 style="font-size:100%;"> <a href="https://nelc.washington.edu/people/selim-sirri-kuru">Selim S. Kuru</a> </h3> <br>
 PI, University of Washington, Department of Middle Eastern Languages and Cultures<br>
 <br> 
@@ -26,7 +26,8 @@ Wiqaa Al Jubeer contributed to this project as an intern while completing her B.
 Research and data collection<br>
 <h3 style="font-size:100%;">Solmaz Shakerifard compiled the information for the first list of over 60 titles while she was working on her graduate studies in the Interdisciplinary PhD Program in Near and Middle Eastern Studies</h3> 
 <br> 
-<h2 style="font-size:100%;">STUDENTS </h2> <br>
+<h2 style="font-size:100%;">STUDENTS </h2> 
+<br>
 The origin of the idea behind MENAI is a course that Selim S. Kuru developed for the HONORS Program at the University of Washington, Seattle, WA. Another course parallel to the HONORS 212 was offered in Spring 2020 through the Department of Near Eastern Languages and Civilization. The courses helped Kuru to develop the MENAI. We would like to acknowledge all students who had taken the course on this page. Second phase of the project will include an exhibit of student work.
 <p>
 
