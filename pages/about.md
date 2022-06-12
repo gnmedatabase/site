@@ -7,7 +7,7 @@ credits: false
 <P align="left">
 <DIV align="left">
 <br> 
-<h1 align="left" style="font-size:100%;"> <a href="https://nelc.washington.edu/people/selim-sirri-kuru">Selim S. Kuru</a> </h1> <br>
+<h2 align="left" style="font-size:150%;"> <a href="https://nelc.washington.edu/people/selim-sirri-kuru">Selim S. Kuru</a> </h2> <br>
 PI, University of Washington, Department of Middle Eastern Languages and Cultures<br>
 <br> 
 <h3 align="left" style="font-size:150%;">2022 </h3> <br>
