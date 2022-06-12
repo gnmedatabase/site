@@ -13,7 +13,6 @@ PI, University of Washington, Department of Middle Eastern Languages and Culture
 <br> 
 <h4 align="left" style="font-size:200%;">2022 </h4> <br>
 <br> 
-<br> 
 <h4 align="left" style="font-size:100%;"><a href="http://a-rains.squarespace.com/">Andrew Weymouth</a> </h4> <br>
 Research and Exhibit Design<br>
 Andrew Weymouth is an Archivist, Exhibit Designer and 2022 UW MLIS graduate student who contributed to this project while completing his Capstone, <a href="https://aweymo.github.io/mappinglanguage/">Mapping Language: Representation of Immigrant Communities in the Pacific Northwest, 1880-1930</a> <br>
@@ -25,7 +24,6 @@ Wiqaa Al Jubeer contributed to this project as an intern while completing her B.
 <br> 
 <h4 align="left" style="font-size:200%;">2019-2020 </h4>
 <br>
-<br> 
 <h4 align="left" style="font-size:100%;">Solmaz Shakeriferd </h4><br> 
 Research and data collection<br>
 Solmaz Shakeriferd compiled the information for the first list of over 60 titles while she was working on her graduate studies in the Interdisciplinary PhD Program in Near and Middle Eastern Studies
