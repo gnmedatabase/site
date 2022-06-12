@@ -8,7 +8,7 @@ credits: false
 <h1 style="font-size:100%;">About Middle East and North Africa Illustrated</h1> 
 <p>
 <h3 style="font-size:75%;"><a href="https://nelc.washington.edu/people/selim-sirri-kuru">Selim S. Kuru</a> <br>
-PI, University of Washington, Department of Middle Eastern Languages and Cultures
+PI, University of Washington, Department of Middle Eastern Languages and Cultures<br>
 <p>
 2022<br>
 <p>
