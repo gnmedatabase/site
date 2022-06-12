@@ -19,6 +19,7 @@ Andrew Weymouth is an Archivist, Exhibit Designer and 2022 UW MLIS graduate stud
 Research, Art, and Data collection<br>
 Wiqaa Al Jubeer contributed to this project as an intern while completing her B.A. degrees in the Department of Near Eastern Languages and Cultures and English Department at the University of Washington.
 <br> 
+<br> 
 <h3 style="font-size:100%;">2019-2020</h1>
 <br>
 <h3 style="font-size:100%;">Solmaz Shakeriferd </h3><br> 
